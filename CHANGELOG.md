@@ -28,9 +28,14 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 - ...
 
+## [v0.2.0] - 2025-08-26
+
+- Update to Vecorel and fiboa 0.3
+
 ## [v0.1.0] - 2024-05-02
 
 - First release
 
-[Unreleased]: <https://github.com/radiantearth/stac-spec/compare/v0.1.0...main>
-[v0.1.0]: <https://github.com/radiantearth/stac-spec/tree/v0.1.0>
+[Unreleased]: <https://github.com/fiboa/ai-ecosystem-extension/compare/v0.2.0...main>
+[v0.2.0]: <https://github.com/fiboa/ai-ecosystem-extension/compare/v0.1.0...v0.2.0>
+[v0.1.0]: <https://github.com/fiboa/ai-ecosystem-extension/tree/v0.1.0>
